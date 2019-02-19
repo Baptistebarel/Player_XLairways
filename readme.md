@@ -3,12 +3,10 @@
 
 ### CSS Features :
 
-# First page :
-
 * Animated clouds in css
 * Apparition of the titles and background
 
-# Javascript Features :
+### Javascript Features :
 
 * Player
 * Play / Pause button 
